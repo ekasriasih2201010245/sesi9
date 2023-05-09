@@ -1,0 +1,1 @@
+document.getElementById("teks1").style.color = "red";
